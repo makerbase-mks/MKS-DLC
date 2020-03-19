@@ -13,9 +13,14 @@
 - Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Firmware
+### MKS DLC board firmware
   - Grbl firmware hex file link: https://github.com/gnea/grbl/releases
   - Grbl link: https://github.com/grbl/grbl
   - Grbl related instructions : https://github.com/gnea/grbl/wiki
+
+### MKS TFT laser mode and CNC mode firmware
+  - Include MKS TFT24, MKS TFT32, MKS TFT35 can be use
+  - MKS TFT_CNC firmware(https://github.com/makerbase-mks/MKS-TFT/tree/master/MKS_TFT_CNC)
 
 ## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
